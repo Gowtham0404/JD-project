@@ -9,6 +9,7 @@ import os
 
 
 def docx(docxname,txtname):
+    """docstring goes here""""
 # replace following line with location of your .docx file
     MY_TEXT = docx2txt.process("ram/"+docxname)
     txtfile=txtname+str(".txt")
@@ -17,6 +18,7 @@ def docx(docxname,txtname):
     f.close()
 
 def pdf(pdfname,txtname):
+    """docstring goes here""""
     pdf = PyPDF2.PdfFileReader (open("ram/"+str(pdfname),"rb"))
     txtfile=txtname+str(".txt")
     #Open the new TEXT file
@@ -26,6 +28,7 @@ def pdf(pdfname,txtname):
         f.write(page.extractText())
     f.close()
 def ram():
+    """docstring goes here""""
     entries = os.listdir('ram/')
     for entry in entries:
         # print(entry)
