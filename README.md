@@ -21,10 +21,8 @@ to text  codecs openthe new text file (utf-8) write my text and close function.
 creat the file function to read or write (os) to set the entry the splitext entry path
 
 #if statment
-in any model of the bag.the model is first taken and printed it 
-    and printed it and enter it to send it back
-	
-	If there is a PDF file, take the summer and release it and give it out
-	If there is a docx file, take the summer and release it and give it out
+creating the function using the if statement, read and get the files and extract the text file from the pdf, docx and doc.
 
-close the file
+close the function.
+
+
