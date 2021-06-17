@@ -37,6 +37,7 @@ def pdf(pdfname,txtname):
     f.close()
 
 
+#covert doc to docx
 
 def doc():
     word = win32com.client.Dispatch("Word.Application")
