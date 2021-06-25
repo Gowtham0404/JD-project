@@ -3,13 +3,13 @@
 importing required modules
 import the pip instal 
 
-#pip instal docx2txt (Docx to text convert the used the docx2txt library)
-#pip instal PyPDF2 (pdf to text convert the used the pyPDF2 library)
-#pip instal io (manage the file-related input and output)
-#pip instal codecs (encode and decode)
-#pip instal os (If you just want to read or write a file see open)
-#pip instal glob ( glob module is used to retrieve files/pathnames)
-#ipi instal win32(run it from the command window, or double-click on it)
+'''pip instal docx2txt (Docx to text convert the used the docx2txt library)
+pip instal PyPDF2 (pdf to text convert the used the pyPDF2 library)
+pip instal io (manage the file-related input and output)
+pip instal codecs (encode and decode)
+pip instal os (If you just want to read or write a file see open)
+pip instal glob ( glob module is used to retrieve files/pathnames)
+pip instal win32(run it from the command window, or double-click on it)'''
 
 
 #convert docx to txt
