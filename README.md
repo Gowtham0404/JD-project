@@ -95,7 +95,7 @@ with open output file writing in binary mode and dumm datas
 
 i have used logging format at this place to return none 
 
-import the json_to_spacy, input and output part name
+import the json_to_spacy, input and output file part name
 ...
 
 ##import random:
