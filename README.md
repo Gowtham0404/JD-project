@@ -31,4 +31,4 @@ return the file name and return files
 
 
 
-##Convert_json_file_to_spaCy_format:
+##CONVERT_JSON_FILE_TO_SPACY_FROMAT:
