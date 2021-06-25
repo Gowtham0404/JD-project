@@ -29,3 +29,6 @@ creating the function using the if statement, read and get the files and extract
 close the function.
 return the file name and return files
 
+
+
+##Convert_json_file_to_spaCy_format:
